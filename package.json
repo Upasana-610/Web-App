@@ -10,7 +10,7 @@
     "dev": "parcel src/index.html",
     "production": "parcel build src/index.html"
   },
-  "author": "Ayan Banerjee",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.4.6",
