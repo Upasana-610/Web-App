@@ -7,7 +7,7 @@
     "last 3 Chrome versions"
   ],
   "scripts": {
-    "dev": "parcel src/index.html",
+    "start": "parcel src/index.html",
     "production": "parcel build src/index.html"
   },
   "author": "",
